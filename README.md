@@ -1,2 +1,2 @@
-Have you ever wanted to swipe down on your trackpad to reduce your window ?
+Have you ever wanted to swipe down on your trackpad to minimize your window ?
 Now you can , enjoy -.-
